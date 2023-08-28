@@ -1,0 +1,4213 @@
+____________iteration  0
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  3
+cargo_remaining_capacities :  830
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  300
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  730
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  2
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  960
+cargo_remaining_capacities dikurangi demands[next_port] :  998
+passenger_remaining_capacities dikurangi demands[next_port] :  996
+len(route) =  3
+cargo_remaining_capacities :  998
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  960
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  996
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  5
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  520
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  952
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  3
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  897
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  4
+cargo_remaining_capacities :  897
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  727
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  4
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  5
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  897
+passenger_remaining_capacities dikurangi demands[next_port] :  955
+len(route) =  6
+cargo_remaining_capacities :  897
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  955
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  880
+cargo_remaining_capacities dikurangi demands[next_port] :  920
+passenger_remaining_capacities dikurangi demands[next_port] :  978
+len(route) =  7
+cargo_remaining_capacities :  920
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  880
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  978
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  180
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  908
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  630
+cargo_remaining_capacities dikurangi demands[next_port] :  875
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+____________iteration  1
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  873
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  873
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  848
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  848
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  815
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  5
+cargo_remaining_capacities :  815
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  962
+passenger_remaining_capacities dikurangi demands[next_port] :  955
+len(route) =  6
+cargo_remaining_capacities :  962
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  955
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  830
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  7
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  830
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  130
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  903
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  958
+len(route) =  5
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  958
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  760
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  976
+len(route) =  6
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  760
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  976
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  660
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  966
+len(route) =  7
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  660
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  966
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  160
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  916
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  3
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  480
+cargo_remaining_capacities dikurangi demands[next_port] :  725
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  4
+cargo_remaining_capacities :  725
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  480
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  872
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+len(route) =  5
+cargo_remaining_capacities :  872
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  963
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  839
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  6
+cargo_remaining_capacities :  839
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  7
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  80
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  898
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  4
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  897
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  5
+cargo_remaining_capacities :  897
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  920
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  6
+cargo_remaining_capacities :  920
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  770
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  4
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  730
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+len(route) =  5
+cargo_remaining_capacities :  730
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  200
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  920
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  380
+cargo_remaining_capacities dikurangi demands[next_port] :  910
+passenger_remaining_capacities dikurangi demands[next_port] :  938
+len(route) =  6
+cargo_remaining_capacities :  910
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  380
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  938
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  50
+cargo_remaining_capacities dikurangi demands[next_port] :  877
+passenger_remaining_capacities dikurangi demands[next_port] :  905
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  990
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  990
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  630
+cargo_remaining_capacities dikurangi demands[next_port] :  965
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+len(route) =  4
+cargo_remaining_capacities :  965
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  630
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  963
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  6
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  7
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  8
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  250
+cargo_remaining_capacities dikurangi demands[next_port] :  600
+passenger_remaining_capacities dikurangi demands[next_port] :  925
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  720
+cargo_remaining_capacities dikurangi demands[next_port] :  970
+passenger_remaining_capacities dikurangi demands[next_port] :  972
+len(route) =  3
+cargo_remaining_capacities :  970
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  720
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  972
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  450
+cargo_remaining_capacities dikurangi demands[next_port] :  945
+passenger_remaining_capacities dikurangi demands[next_port] :  945
+len(route) =  4
+cargo_remaining_capacities :  945
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  450
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  945
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  120
+cargo_remaining_capacities dikurangi demands[next_port] :  912
+passenger_remaining_capacities dikurangi demands[next_port] :  912
+____________iteration  2
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  3
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  990
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  4
+cargo_remaining_capacities :  990
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  6
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  3
+cargo_remaining_capacities :  830
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  300
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  530
+cargo_remaining_capacities dikurangi demands[next_port] :  853
+passenger_remaining_capacities dikurangi demands[next_port] :  953
+len(route) =  4
+cargo_remaining_capacities :  853
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  530
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  953
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  260
+cargo_remaining_capacities dikurangi demands[next_port] :  828
+passenger_remaining_capacities dikurangi demands[next_port] :  926
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  5
+cargo_remaining_capacities :  830
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  300
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  30
+cargo_remaining_capacities dikurangi demands[next_port] :  805
+passenger_remaining_capacities dikurangi demands[next_port] :  903
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  30
+cargo_remaining_capacities dikurangi demands[next_port] :  805
+passenger_remaining_capacities dikurangi demands[next_port] :  903
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  170
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  917
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  730
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+____________iteration  3
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  958
+len(route) =  4
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  958
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  810
+cargo_remaining_capacities dikurangi demands[next_port] :  848
+passenger_remaining_capacities dikurangi demands[next_port] :  981
+len(route) =  5
+cargo_remaining_capacities :  848
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  810
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  981
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  480
+cargo_remaining_capacities dikurangi demands[next_port] :  815
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  6
+cargo_remaining_capacities :  815
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  480
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  660
+cargo_remaining_capacities dikurangi demands[next_port] :  995
+passenger_remaining_capacities dikurangi demands[next_port] :  966
+len(route) =  7
+cargo_remaining_capacities :  995
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  660
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  966
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  160
+cargo_remaining_capacities dikurangi demands[next_port] :  845
+passenger_remaining_capacities dikurangi demands[next_port] :  916
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  3
+cargo_remaining_capacities :  830
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  300
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  30
+cargo_remaining_capacities dikurangi demands[next_port] :  805
+passenger_remaining_capacities dikurangi demands[next_port] :  903
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  170
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  917
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  3
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  942
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  873
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  873
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+____________iteration  4
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  4
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  958
+len(route) =  5
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  958
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  250
+cargo_remaining_capacities dikurangi demands[next_port] :  792
+passenger_remaining_capacities dikurangi demands[next_port] :  925
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  990
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  990
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  840
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  4
+cargo_remaining_capacities :  840
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  987
+passenger_remaining_capacities dikurangi demands[next_port] :  955
+len(route) =  5
+cargo_remaining_capacities :  987
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  955
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  550
+cargo_remaining_capacities dikurangi demands[next_port] :  887
+passenger_remaining_capacities dikurangi demands[next_port] :  945
+len(route) =  6
+cargo_remaining_capacities :  887
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  550
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  945
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  737
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  7
+cargo_remaining_capacities :  737
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  917
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  8
+cargo_remaining_capacities :  917
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  310
+cargo_remaining_capacities dikurangi demands[next_port] :  892
+passenger_remaining_capacities dikurangi demands[next_port] :  921
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  997
+passenger_remaining_capacities dikurangi demands[next_port] :  965
+len(route) =  3
+cargo_remaining_capacities :  997
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  965
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  897
+passenger_remaining_capacities dikurangi demands[next_port] :  955
+len(route) =  4
+cargo_remaining_capacities :  897
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  955
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  747
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  5
+cargo_remaining_capacities :  747
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  722
+passenger_remaining_capacities dikurangi demands[next_port] :  913
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  2
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  942
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  680
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  968
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  680
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  968
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  410
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  941
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  410
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  941
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  80
+cargo_remaining_capacities dikurangi demands[next_port] :  942
+passenger_remaining_capacities dikurangi demands[next_port] :  908
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  630
+cargo_remaining_capacities dikurangi demands[next_port] :  875
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+len(route) =  3
+cargo_remaining_capacities :  875
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  630
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  963
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  995
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  4
+cargo_remaining_capacities :  995
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  350
+cargo_remaining_capacities dikurangi demands[next_port] :  845
+passenger_remaining_capacities dikurangi demands[next_port] :  935
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+____________iteration  5
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  920
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  982
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  920
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  982
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  420
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  932
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  3
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+len(route) =  4
+cargo_remaining_capacities :  867
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  570
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  957
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  820
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  972
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  820
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  972
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  320
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  922
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  4
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  620
+cargo_remaining_capacities dikurangi demands[next_port] :  870
+passenger_remaining_capacities dikurangi demands[next_port] :  962
+len(route) =  5
+cargo_remaining_capacities :  870
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  620
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  962
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  470
+cargo_remaining_capacities dikurangi demands[next_port] :  720
+passenger_remaining_capacities dikurangi demands[next_port] :  947
+len(route) =  6
+cargo_remaining_capacities :  720
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  470
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  947
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  140
+cargo_remaining_capacities dikurangi demands[next_port] :  687
+passenger_remaining_capacities dikurangi demands[next_port] :  914
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  730
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+len(route) =  5
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  230
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  923
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  480
+cargo_remaining_capacities dikurangi demands[next_port] :  972
+passenger_remaining_capacities dikurangi demands[next_port] :  938
+len(route) =  6
+cargo_remaining_capacities :  972
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  480
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  938
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  939
+passenger_remaining_capacities dikurangi demands[next_port] :  905
+____________iteration  6
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  970
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  970
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  820
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  4
+cargo_remaining_capacities :  820
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  720
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  5
+cargo_remaining_capacities :  720
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  130
+cargo_remaining_capacities dikurangi demands[next_port] :  695
+passenger_remaining_capacities dikurangi demands[next_port] :  913
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  5
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  350
+cargo_remaining_capacities dikurangi demands[next_port] :  700
+passenger_remaining_capacities dikurangi demands[next_port] :  935
+len(route) =  6
+cargo_remaining_capacities :  700
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  350
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  935
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  80
+cargo_remaining_capacities dikurangi demands[next_port] :  675
+passenger_remaining_capacities dikurangi demands[next_port] :  908
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  890
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  989
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  890
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  989
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  5
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  950
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  995
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  950
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  995
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  450
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  945
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  958
+len(route) =  3
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  958
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  250
+cargo_remaining_capacities dikurangi demands[next_port] :  792
+passenger_remaining_capacities dikurangi demands[next_port] :  925
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  923
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  923
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  898
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  5
+cargo_remaining_capacities :  898
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  748
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  680
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+____________iteration  7
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  4
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  420
+cargo_remaining_capacities dikurangi demands[next_port] :  717
+passenger_remaining_capacities dikurangi demands[next_port] :  942
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  680
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  720
+cargo_remaining_capacities dikurangi demands[next_port] :  970
+passenger_remaining_capacities dikurangi demands[next_port] :  972
+len(route) =  4
+cargo_remaining_capacities :  970
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  720
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  972
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  820
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+len(route) =  5
+cargo_remaining_capacities :  820
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  570
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  957
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  795
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+len(route) =  6
+cargo_remaining_capacities :  795
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  300
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  930
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  695
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  3
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [6]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  580
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  958
+len(route) =  3
+cargo_remaining_capacities :  825
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  580
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  958
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  810
+cargo_remaining_capacities dikurangi demands[next_port] :  848
+passenger_remaining_capacities dikurangi demands[next_port] :  981
+len(route) =  4
+cargo_remaining_capacities :  848
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  810
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  981
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  710
+cargo_remaining_capacities dikurangi demands[next_port] :  748
+passenger_remaining_capacities dikurangi demands[next_port] :  971
+len(route) =  5
+cargo_remaining_capacities :  748
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  710
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  971
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  960
+cargo_remaining_capacities dikurangi demands[next_port] :  895
+passenger_remaining_capacities dikurangi demands[next_port] :  986
+len(route) =  6
+cargo_remaining_capacities :  895
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  960
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  986
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  260
+cargo_remaining_capacities dikurangi demands[next_port] :  725
+passenger_remaining_capacities dikurangi demands[next_port] :  916
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  997
+passenger_remaining_capacities dikurangi demands[next_port] :  965
+len(route) =  4
+cargo_remaining_capacities :  997
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  965
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  980
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  988
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  980
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  988
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  6
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  5
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  520
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  952
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  3
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+len(route) =  4
+cargo_remaining_capacities :  867
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  570
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  957
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  790
+cargo_remaining_capacities dikurangi demands[next_port] :  987
+passenger_remaining_capacities dikurangi demands[next_port] :  979
+len(route) =  5
+cargo_remaining_capacities :  987
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  790
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  979
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  520
+cargo_remaining_capacities dikurangi demands[next_port] :  962
+passenger_remaining_capacities dikurangi demands[next_port] :  952
+len(route) =  6
+cargo_remaining_capacities :  962
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  520
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  952
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  985
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  7
+cargo_remaining_capacities :  985
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  8
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+____________iteration  8
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  4
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  5
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  480
+cargo_remaining_capacities dikurangi demands[next_port] :  725
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  6
+cargo_remaining_capacities :  725
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  480
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  692
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  3
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  520
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  952
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  900
+cargo_remaining_capacities dikurangi demands[next_port] :  900
+passenger_remaining_capacities dikurangi demands[next_port] :  990
+len(route) =  2
+cargo_remaining_capacities :  900
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  900
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  990
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  630
+cargo_remaining_capacities dikurangi demands[next_port] :  875
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  3
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  825
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [9]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  975
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  4
+cargo_remaining_capacities :  975
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  400
+cargo_remaining_capacities dikurangi demands[next_port] :  942
+passenger_remaining_capacities dikurangi demands[next_port] :  940
+len(route) =  5
+cargo_remaining_capacities :  942
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  400
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  940
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  620
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  962
+len(route) =  6
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  620
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  962
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  800
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  980
+len(route) =  7
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  800
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  980
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  965
+len(route) =  8
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  965
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  700
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  680
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+____________iteration  9
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [0]
+6. ant :  0
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  3
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  1
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [5]
+6. ant :  2
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  3
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  520
+cargo_remaining_capacities dikurangi demands[next_port] :  817
+passenger_remaining_capacities dikurangi demands[next_port] :  952
+len(route) =  4
+cargo_remaining_capacities :  817
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  520
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  952
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  700
+cargo_remaining_capacities dikurangi demands[next_port] :  997
+passenger_remaining_capacities dikurangi demands[next_port] :  970
+len(route) =  5
+cargo_remaining_capacities :  997
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  700
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  970
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  200
+cargo_remaining_capacities dikurangi demands[next_port] :  847
+passenger_remaining_capacities dikurangi demands[next_port] :  920
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [8]
+6. ant :  3
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  2
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  890
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  989
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  890
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  989
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  5
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  6
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  997
+passenger_remaining_capacities dikurangi demands[next_port] :  965
+len(route) =  7
+cargo_remaining_capacities :  997
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  965
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  650
+cargo_remaining_capacities dikurangi demands[next_port] :  897
+passenger_remaining_capacities dikurangi demands[next_port] :  955
+len(route) =  8
+cargo_remaining_capacities :  897
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  650
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  955
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  380
+cargo_remaining_capacities dikurangi demands[next_port] :  872
+passenger_remaining_capacities dikurangi demands[next_port] :  928
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [3]
+6. ant :  4
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  5
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  970
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  970
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  4
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  670
+cargo_remaining_capacities dikurangi demands[next_port] :  967
+passenger_remaining_capacities dikurangi demands[next_port] :  967
+len(route) =  5
+cargo_remaining_capacities :  967
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  670
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  967
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  570
+cargo_remaining_capacities dikurangi demands[next_port] :  867
+passenger_remaining_capacities dikurangi demands[next_port] :  957
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [1]
+6. ant :  6
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  300
+cargo_remaining_capacities dikurangi demands[next_port] :  830
+passenger_remaining_capacities dikurangi demands[next_port] :  930
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [4]
+6. ant :  7
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -120
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -220
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -22
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  4
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  997
+passenger_remaining_capacities dikurangi demands[next_port] :  965
+len(route) =  5
+cargo_remaining_capacities :  997
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  965
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  600
+cargo_remaining_capacities dikurangi demands[next_port] :  847
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  6
+cargo_remaining_capacities :  847
+cargo demands[next_port] :  25
+vehicle_remaining_capacities :  600
+vehicle demands[next_port] :  270
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  27
+vehicle_remaining_capacities dikurangi demands[next_port] :  330
+cargo_remaining_capacities dikurangi demands[next_port] :  822
+passenger_remaining_capacities dikurangi demands[next_port] :  923
+len(route) =  7
+cargo_remaining_capacities :  822
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  330
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  923
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  230
+cargo_remaining_capacities dikurangi demands[next_port] :  722
+passenger_remaining_capacities dikurangi demands[next_port] :  913
+len(route) =  8
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [7]
+6. ant :  8
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -180
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -180
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -18
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  2
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  -147
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  -250
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  -15
+vehicle_remaining_capacities dikurangi demands[next_port] :  1000
+cargo_remaining_capacities dikurangi demands[next_port] :  1000
+passenger_remaining_capacities dikurangi demands[next_port] :  1000
+len(route) =  3
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  500
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  50
+vehicle_remaining_capacities dikurangi demands[next_port] :  500
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  950
+len(route) =  4
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  -23
+vehicle_remaining_capacities :  500
+vehicle demands[next_port] :  -230
+passenger_remaining_capacities :  950
+passenger demands[next_port] :  -23
+vehicle_remaining_capacities dikurangi demands[next_port] :  730
+cargo_remaining_capacities dikurangi demands[next_port] :  873
+passenger_remaining_capacities dikurangi demands[next_port] :  973
+len(route) =  5
+cargo_remaining_capacities :  873
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  730
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  973
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  630
+cargo_remaining_capacities dikurangi demands[next_port] :  773
+passenger_remaining_capacities dikurangi demands[next_port] :  963
+len(route) =  6
+cargo_remaining_capacities :  773
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  630
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  963
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  480
+cargo_remaining_capacities dikurangi demands[next_port] :  623
+passenger_remaining_capacities dikurangi demands[next_port] :  948
+len(route) =  7
+cargo_remaining_capacities :  623
+cargo demands[next_port] :  33
+vehicle_remaining_capacities :  480
+vehicle demands[next_port] :  330
+passenger_remaining_capacities :  948
+passenger demands[next_port] :  33
+vehicle_remaining_capacities dikurangi demands[next_port] :  150
+cargo_remaining_capacities dikurangi demands[next_port] :  590
+passenger_remaining_capacities dikurangi demands[next_port] :  915
+-----------Construction Phase-----------
+1. vehicle_remaining_capacities :  1000
+2. cargo_remaining_capacities :  1000
+3. passenger_remaining_capacities :  1000
+5. route :  [2]
+6. ant :  9
+len(route) =  1
+cargo_remaining_capacities :  1000
+cargo demands[next_port] :  150
+vehicle_remaining_capacities :  1000
+vehicle demands[next_port] :  150
+passenger_remaining_capacities :  1000
+passenger demands[next_port] :  15
+vehicle_remaining_capacities dikurangi demands[next_port] :  850
+cargo_remaining_capacities dikurangi demands[next_port] :  850
+passenger_remaining_capacities dikurangi demands[next_port] :  985
+len(route) =  2
+cargo_remaining_capacities :  850
+cargo demands[next_port] :  100
+vehicle_remaining_capacities :  850
+vehicle demands[next_port] :  100
+passenger_remaining_capacities :  985
+passenger demands[next_port] :  10
+vehicle_remaining_capacities dikurangi demands[next_port] :  750
+cargo_remaining_capacities dikurangi demands[next_port] :  750
+passenger_remaining_capacities dikurangi demands[next_port] :  975
+len(route) =  3
+cargo_remaining_capacities :  750
+cargo demands[next_port] :  170
+vehicle_remaining_capacities :  750
+vehicle demands[next_port] :  700
+passenger_remaining_capacities :  975
+passenger demands[next_port] :  70
+vehicle_remaining_capacities dikurangi demands[next_port] :  50
+cargo_remaining_capacities dikurangi demands[next_port] :  580
+passenger_remaining_capacities dikurangi demands[next_port] :  905
+rute optimal =  [2, 8, 5, 0]
+Total distance of best route: 230
