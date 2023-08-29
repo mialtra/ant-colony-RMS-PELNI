@@ -34,7 +34,7 @@ def evaluate_route(route):
 # Random Search for Parameter Tuning
 best_params = None
 best_distance = float('inf')
-num_random_searches = 100  # Jumlah pencarian acak yang akan dilakukan
+num_random_searches = 1000  # Jumlah pencarian acak yang akan dilakukan
 results = []
 
 for _ in range(num_random_searches):
@@ -70,6 +70,8 @@ for _ in range(num_random_searches):
 
 print("Best Parameters:", best_params)
 print("Best Distance:", best_distance)
+#Best Parameters: (50, 0.2405220234488369, 50)
+#Best Distance: 87
 
 # Menampilkan hasil dalam bentuk grafik
 x = np.arange(num_random_searches)
